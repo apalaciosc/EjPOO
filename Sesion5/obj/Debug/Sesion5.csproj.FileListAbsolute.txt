@@ -1,0 +1,16 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Sesion5\Sesion5\bin\Debug\Sesion5.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Sesion5\Sesion5\bin\Debug\Sesion5.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Sesion5\Sesion5\obj\Debug\Sesion5.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Sesion5\Sesion5\obj\Debug\Sesion5.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Sesion5\Sesion5\obj\Debug\Sesion5.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Sesion5\Sesion5\obj\Debug\Sesion5.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Sesion5\Sesion5\obj\Debug\Sesion5.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\Sesion5\Sesion5\obj\Debug\Sesion5.csprojResolveAssemblyReference.cache
+C:\Users\alpal\Downloads\Ejercicios-20180514\Sesion5\Sesion5\obj\Debug\Sesion5.exe
+C:\Users\alpal\Downloads\Ejercicios-20180514\Sesion5\Sesion5\obj\Debug\Sesion5.pdb
+C:\Users\alpal\Downloads\Ejercicios-20180514\Sesion5\Sesion5\bin\Debug\Sesion5.exe
+C:\Users\alpal\Downloads\Ejercicios-20180514\Sesion5\Sesion5\bin\Debug\Sesion5.pdb
+C:\Users\alpal\Downloads\Ejercicios-20180514\Sesion5\Sesion5\obj\Debug\Sesion5.csprojResolveAssemblyReference.cache
+C:\Users\alpal\Downloads\Ejercicios-20180514\Sesion5\Sesion5\obj\Debug\Sesion5.Form1.resources
+C:\Users\alpal\Downloads\Ejercicios-20180514\Sesion5\Sesion5\obj\Debug\Sesion5.Properties.Resources.resources
+C:\Users\alpal\Downloads\Ejercicios-20180514\Sesion5\Sesion5\obj\Debug\Sesion5.csproj.GenerateResource.Cache
